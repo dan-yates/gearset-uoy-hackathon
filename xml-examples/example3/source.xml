@@ -1,0 +1,20 @@
+<Computer>
+    <Name>My really cool computer</Name>
+    <Case>
+        <Name>Corsair 4000D</Name>
+        <Parts>
+            <CPU>Ryzen 9 5900X</CPU>
+            <GPU>RTX 3090</GPU>
+            <PSU>Corsair 1000W</PSU>
+        </Parts>
+    </Case>
+    <Peripherals>
+        <Mouse>Logitech G Pro Lightspeed</Mouse>
+        <Keyboard>HHKB Hybrid 3S</Keyboard>
+        <Chair>Gaming</Chair>
+        <RGB>True</RGB>
+        <Monitors>
+            <Monitor>Dell P2815Q<Monitor/>
+        </Monitors>
+    </Peripherals>
+</Computer>

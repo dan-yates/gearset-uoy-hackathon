@@ -1,0 +1,25 @@
+<Computer>
+    <Name>My really not that cool computer</Name>
+    <Case>
+        <Name>Corsair 4000D</Name>
+        <Parts>
+            <CPU>Ryzen 9 5900X</CPU>
+            <GPU>RTX 3090</GPU>
+            <PSU>Corsair 1000W</PSU>
+            <Storage>
+                <SSD>Samsung 970 Evo 1TB</SSD>
+                <HDD>Seagate Barracuda 2TB</HDD>
+            </Storage>
+        </Parts>
+    </Case>
+    <Peripherals>
+        <Mouse>Logitech G305</Mouse>
+        <Keyboard>HHKB Hybrid 3S</Keyboard>
+        <Chair>Boring office chair</Chair>
+        <RGB>False</RGB>
+        <Monitors>
+            <Monitor>Dell P2815Q</Monitor>
+            <Monitor>Dell P2815Q</Monitor>
+        </Monitors>
+    </Peripherals>
+</Computer>
