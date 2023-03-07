@@ -1,0 +1,10 @@
+<FruitObject>
+	<Type>Apple</Type>
+	<SubType>Granny Smith</SubType>
+	<Plural>Apples</Plural>
+	<Nutrients>
+		<VitaminA>3mg</VitaminA>
+	</Nutrients>
+  <Description>Doctors hate him</Description>
+	<Texture>That of an apple</Texture>
+</FruitObject>
