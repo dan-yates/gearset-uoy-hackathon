@@ -1,0 +1,10 @@
+<FruitObject>
+	<Type>Apple</Type>
+  <SubType>Pink Lady</SubType>
+	<Plural>Apples</Plural>
+  	<Nutrients>
+    	  <VitaminA>3mg</VitaminA>
+      	<VitaminB>1mg</VitaminB>
+    </Nutrients>
+    <Texture>That of an apple</Texture>
+</FruitObject>
